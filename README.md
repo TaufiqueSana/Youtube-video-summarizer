@@ -11,6 +11,9 @@ A Streamlit web application that extracts transcripts from YouTube videos and ge
 Try the app live here:  
 👉 [YouTube Video Summarizer](https://youtube-video-summarizer-zuhkczrfy3stxzl2wkbovc.streamlit.app/)
 
+ Sample video link:  
+ 👉 https://youtu.be/zSkFFW--Ma0?si=jMOn9terjoEUiXCD
+
 ---
 
 ## Features
